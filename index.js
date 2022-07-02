@@ -103,6 +103,19 @@ const makeEmployee = () => {
             }
         },
         {
+            type:'input',
+            name: 'id',
+            message: 'Enter employee ID',
+            validate: inputName => {
+                if (isNaN(inputName)) {
+                    console.log ('invalid emplyess ID')
+                    return false;
+                } else {
+                    return true;
+                }
+            }
+        },
+        {
             type: 'input',
             name: 'email',
             message: 'Enter employee email.',
@@ -155,7 +168,7 @@ const makeEmployee = () => {
         let employee;
 
         if (role === 'Engineer') {
-            employee = new Engineer (name, id , email, github);
+            employee = new Engineer (name, id, email, github);
 
             console.log(employee);
         } else if (role === 'Intern') {
@@ -174,8 +187,8 @@ const makeEmployee = () => {
     })
 };
 
-const writeHTML = data => {
-    fs,writeHTML('./dist/index.html', data, err => {
+const writeFile = data => {
+    fs.writeFile('./dist/index.html', data, err => {
         if (err) {
             console.log(err);
             return;

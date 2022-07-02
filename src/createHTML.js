@@ -42,8 +42,8 @@ const createInternCard = function (intern) {
             <div class="card-content white-text">
              <h1> ${intern.name}</h1}
               <span class="card-title">Intern</span>
-              <p class="id">ID: ${inter.id}</p>
-              <p class="email">Email: ${intern.email}</p>
+              <p class="id">ID: ${intern.id} </p>
+              <p class="email"> Email: ${intern.email}</p>
               <p class="school">School: ${intern.school}</p>
             </div>
           </div>
