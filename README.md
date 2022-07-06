@@ -21,6 +21,7 @@
 
     Usage Video:
     https://drive.google.com/file/d/1Q8ilUzsfGyLlnxeoxljPLmcb8nlnQkwg/view
+    Sample HTML is locatted in the /dist file location.
 
 ## Credits
 
