@@ -19,14 +19,8 @@ To install this app go to https://github.com/Protomancer/Team-Profile-Generator 
 
 To use the app simply open the file in vscode or cd into it in your terminal of choice. Once inside you can run the terminal command node index.js . Once you run the index.js file you will be greeted with a series of questions. Answer the questions to the best of your ability, if the answers you give are not compatible the terminal will display an error. Once you make it through the questions the app will generate a generic html file in the dist folder. From here you can run the index.html in your browser and you will see the employee cards all laid out.
 
-<<<<<<< HEAD
 Usage Video:
-![link]https://drive.google.com/file/d/1Q8ilUzsfGyLlnxeoxljPLmcb8nlnQkwg/view
-=======
-    Usage Video:
-    https://drive.google.com/file/d/1Q8ilUzsfGyLlnxeoxljPLmcb8nlnQkwg/view
-    Sample HTML is locatted in the /dist file location.
->>>>>>> 638c4219f5af85f98ee8f6b24a463d9c9a3acdd2
+[link]https://drive.google.com/file/d/1Q8ilUzsfGyLlnxeoxljPLmcb8nlnQkwg/view
 
 ## Credits
 
@@ -41,9 +35,9 @@ Apache 2.0
 
 ## Badges
 
-![image]({https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white})
+[image]({https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white})
 
-![image]({https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E})
+[image]({https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E})
 
 
 
