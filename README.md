@@ -20,7 +20,7 @@ To install this app go to https://github.com/Protomancer/Team-Profile-Generator 
 To use the app simply open the file in vscode or cd into it in your terminal of choice. Once inside you can run the terminal command node index.js . Once you run the index.js file you will be greeted with a series of questions. Answer the questions to the best of your ability, if the answers you give are not compatible the terminal will display an error. Once you make it through the questions the app will generate a generic html file in the dist folder. From here you can run the index.html in your browser and you will see the employee cards all laid out.
 
 Usage Video:
-[link]https://drive.google.com/file/d/1Q8ilUzsfGyLlnxeoxljPLmcb8nlnQkwg/view
+[link](https://drive.google.com/file/d/1Q8ilUzsfGyLlnxeoxljPLmcb8nlnQkwg/view)
 
 ## Credits
 
